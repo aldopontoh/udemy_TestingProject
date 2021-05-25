@@ -1,0 +1,23 @@
+{
+  "name": "udemy_testingproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldopontoh/udemy_TestingProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldopontoh/udemy_TestingProject/issues"
+  },
+  "homepage": "https://github.com/aldopontoh/udemy_TestingProject#readme",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "testcafe": "^1.14.2"
+  }
+}
